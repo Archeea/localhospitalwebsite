@@ -1,0 +1,29 @@
+.services-container {
+    background-color: #0f0a0a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+  h2,p{
+    text-align: center;
+  }
+  
+  .services-heading {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+    transition: color 0.3s ease;
+    text-align: center;
+  }
+  
+  .services-heading:hover {
+    color: #ff6b6b;
+  }
+  
+  .services-description {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
